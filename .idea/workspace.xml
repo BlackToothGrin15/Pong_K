@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d3e3d1b-727e-4b88-9d0b-0813bccb261b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pong_K_Code.py" afterDir="false" />
-    </list>
+    <list default="true" id="9d3e3d1b-727e-4b88-9d0b-0813bccb261b" name="Changes" comment="Addition of the code to the project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +35,14 @@
       <option name="presentableId" value="Default" />
       <updated>1692419797898</updated>
     </task>
+    <task id="LOCAL-00001" summary="Addition of the code to the project">
+      <created>1692420157315</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692420157315</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -49,5 +55,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Addition of the code to the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Addition of the code to the project" />
   </component>
 </project>
